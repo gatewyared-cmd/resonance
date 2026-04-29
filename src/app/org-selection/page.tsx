@@ -1,3 +1,4 @@
+"use client";
 import { OrganizationList } from "@clerk/react";
 
 export default function orgSelection() {
