@@ -1,4 +1,4 @@
-import {Headphones, ThumbsUp} from "lucide-react";
+import { ThumbsUp} from "lucide-react";
 import Link from "next/link";
 import {Button} from "@/components/ui/button";
 import {SidebarTrigger} from "@/components/ui/sidebar";
