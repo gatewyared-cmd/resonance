@@ -1,0 +1,26 @@
+// src/features/voices/data/voice-scoping.ts
+
+export const CANONICAL_SYSTEM_VOICE_NAMES = [
+  "Aaron",
+  "Abigail",
+  "Anaya",
+  "Andy",
+  "Archer",
+  "Brian",
+  "Chloe",
+  "Dylan",
+  "Emmanuel",
+  "Ethan",
+  "Evelyn",
+  "Gavin",
+  "Gordon",
+  "Ivan",
+  "Laura",
+  "Lucy",
+  "Madison",
+  "Marisol",
+  "Meera",
+  "Walter",
+] as const;
+
+
